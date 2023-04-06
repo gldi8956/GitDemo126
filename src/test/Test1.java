@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class Test1 {
 	public static void main(String[] args) {
-		
+		 
 		System.out.println("Hello, java");
 		System.out.println("아자아자 126기 화이팅~~");
 		
 		Scanner sc100 = new Scanner(System.in); //시험
 		
 		int score = sc100.nextInt(); //시험
-		
+		 
 		 //int score = 80;
 		char grade = ' ';
 		
